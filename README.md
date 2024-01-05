@@ -25,12 +25,8 @@ Feel free to dive into the code, tweak parameters, and explore how changes affec
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](#). 🌐
+Check out the live demo [here](https://wassimoubaziz.github.io/interactive-canvas-animation/). 🌐
 
-## 📄 Credits
-
-- Project developed by Wassim.
-- Inspired by creative coding and HTML5 canvas animations.
 
 ## 📜 License
 
